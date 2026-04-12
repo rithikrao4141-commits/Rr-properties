@@ -12,6 +12,119 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
+        </section>
+
+    <!-- Stats Section - Hero ke baad ye daalo -->
+    <section class="stats">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-box fade-in">
+                    <h3 data-count="15">0</h3>
+                    <p>Years Experience</p>
+                </div>
+                <div class="stat-box fade-in">
+                    <h3 data-count="500">0</h3>
+                    <p>Happy Clients</p>
+                </div>
+                <div class="stat-box fade-in">
+                    <h3 data-count="1200">0</h3>
+                    <p>Properties Sold</p>
+                </div>
+                <div class="stat-box fade-in">
+                    <h3 data-count="100">0</h3>
+                    <p>% Legal Deals</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Properties -->
+    <section id="properties">
+        <div class="container">
+            <h2 class="section-title fade-in">Featured Premium Properties</h2>
+            <div class="property-grid">
+                <div class="property-card fade-in">
+                    <div class="property-img" style="background-image: url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800')">
+                        <span class="property-badge">Hot Deal</span>
+                    </div>
+                    <div class="property-content">
+                        <div class="property-price">₹85 Lakh</div>
+                        <h3>3BHK Luxury Apartment</h3>
+                        <p><i class="fas fa-map-marker-alt"></i> Rajpur Road, Dehra Dun</p>
+                        <div class="property-details">
+                            <span><i class="fas fa-bed"></i> 3 BHK</span>
+                            <span><i class="fas fa-bath"></i> 3 Bath</span>
+                            <span><i class="fas fa-ruler-combined"></i> 1850 sqft</span>
+                        </div>
+                        <a href="#contact" class="cta-btn">Enquire Now</a>
+                    </div>
+                </div>
+
+                <div class="property-card fade-in">
+                    <div class="property-img" style="background-image: url('https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800')">
+                        <span class="property-badge">New Launch</span>
+                    </div>
+                    <div class="property-content">
+                        <div class="property-price">₹1.25 Cr</div>
+                        <h3>4BHK Independent Villa</h3>
+                        <p><i class="fas fa-map-marker-alt"></i> Sahastradhara Road</p>
+                        <div class="property-details">
+                            <span><i class="fas fa-bed"></i> 4 BHK</span>
+                            <span><i class="fas fa-bath"></i> 4 Bath</span>
+                            <span><i class="fas fa-ruler-combined"></i> 3200 sqft</span>
+                        </div>
+                        <a href="#contact" class="cta-btn">Enquire Now</a>
+                    </div>
+                </div>
+
+                <div class="property-card fade-in">
+                    <div class="property-img" style="background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800')">
+                        <span class="property-badge">Ready to Move</span>
+                    </div>
+                    <div class="property-content">
+                        <div class="property-price">₹65 Lakh</div>
+                        <h3>2BHK Premium Flat</h3>
+                        <p><i class="fas fa-map-marker-alt"></i> GMS Road, Dehra Dun</p>
+                        <div class="property-details">
+                            <span><i class="fas fa-bed"></i> 2 BHK</span>
+                            <span><i class="fas fa-bath"></i> 2 Bath</span>
+                            <span><i class="fas fa-ruler-combined"></i> 1250 sqft</span>
+                        </div>
+                        <a href="#contact" class="cta-btn">Enquire Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us Strip -->
+    <section class="about" style="padding: 3rem 0;">
+        <div class="container">
+            <h2 class="section-title fade-in" style="margin-bottom: 2rem;">Why Choose RR Properties?</h2>
+            <div class="stats-grid">
+                <div class="fade-in" style="text-align: center; padding: 1.5rem;">
+                    <i class="fas fa-shield-alt" style="font-size: 2.5rem; color: var(--accent); margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.2rem; margin-bottom: 0.5rem;">RERA Certified</h3>
+                    <p>100% Legal & Verified Deals Only</p>
+                </div>
+                <div class="fade-in" style="text-align: center; padding: 1.5rem;">
+                    <i class="fas fa-handshake" style="font-size: 2.5rem; color: var(--accent); margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.2rem; margin-bottom: 0.5rem;">Builder Tie-ups</h3>
+                    <p>Direct Partnership with Top Builders</p>
+                </div>
+                <div class="fade-in" style="text-align: center; padding: 1.5rem;">
+                    <i class="fas fa-headset" style="font-size: 2.5rem; color: var(--accent); margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.2rem; margin-bottom: 0.5rem;">Full Support</h3>
+                    <p>Site Visit to Registry, We Handle All</p>
+                </div>
+                <div class="fade-in" style="text-align: center; padding: 1.5rem;">
+                    <i class="fas fa-rupee-sign" style="font-size: 2.5rem; color: var(--accent); margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.2rem; margin-bottom: 0.5rem;">Best Price</h3>
+                    <p>Guaranteed Lowest Price in Market</p>
+                </div>
+            </div>
+        </div>
+    </section>
         :root {
             --primary: #0B2D48;
             --accent: #C9A961;
