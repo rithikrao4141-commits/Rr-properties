@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>Ritik Property Dealer</title>
+    <meta charset="UTF-8">
+    <title> rithik property dealer </title>
 </head>
-
 <body>
-
-    <h1>Luxury Property Dealer</h1>
     
-    <h2>contact+916398645291</h2>
+    <h1> luxury property dealer </h1>
     
-    <p>Welcome to my website</p>
-
-    <p>Yahan aapko best properties milengi</p>
-
+    <h2> contact:6398645291 </h2>
+    
+    <p> i have a good inventory of different properties </p>
 </body>
 </html>
