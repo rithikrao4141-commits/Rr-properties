@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-      <title> rithik properties </title>
+    <title>Ritik Property Dealer</title>
 </head>
+
 <body>
-      <h1> luxury property dealer</h1>
-       <h2> contact 6398645291</h2>
+
+    <h1>Luxury Property Dealer</h1>
+
+    <p>Welcome to my website</p>
+
+    <p>Yahan aapko best properties milengi</p>
+
 </body>
 </html>
