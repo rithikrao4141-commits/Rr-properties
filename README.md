@@ -1,15 +1,18 @@
 <!DOCTYPE html>
+
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title> rithik property dealer </title>
+      <meta charset="utf-8">
+     <title> RR property </title>
 </head>
 <body>
-    
-    <h1> luxury property dealer </h1>
-    
-    <h2> contact:6398645291 </h2>
-    
-    <p> i have a good inventory of different properties </p>
+
+     <h1> LUXURY PROPERTY DEALER </h1>
+
+     <h2> Contact: 6398645291 </h2>
+
+     <h3> Address: 49 bodyguard canal road dehradun </h3>
+
 </body>
 </html>
+     
