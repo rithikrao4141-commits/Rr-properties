@@ -3,6 +3,8 @@
 <head>
       <meta charset="UTF8">
        <title> RR PROPERTIES </title>
+      <link rel="sytlesheet" href="style.css>"
+</head>
 <body>
       
       <h1> LUXURY PROPERTY DEALER </h1>
@@ -16,7 +18,6 @@
       <p> i have different different offers in all festivals </p>
       
 </body>
-            
-</head> 
+       
 
 </html>
