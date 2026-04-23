@@ -13,7 +13,7 @@
             
       <h4> Address:40 BODYGUARD CANAL ROAD DEHRADUN </h4>
             
-      <p> i have a prestigious properties in posch locations </p>
+      <p style="color:sliver;>i have a prestigious properties in posch locations </p>
             
       <p> i have different different offers in all festivals </p>
       
