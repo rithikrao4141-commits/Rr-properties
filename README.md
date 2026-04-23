@@ -6,9 +6,7 @@
 
 </head>
 <body>
-      
-      
-      <h1 style="color:neon;"> LUXURY PROPERTY DEALER </h1>
+      <h1 style="color:neon;">LUXURY PROPERTY DEALER </h1>
       
       <h2> <contact:+6398645291</h2>
             
