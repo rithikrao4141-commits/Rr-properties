@@ -1,11 +1,13 @@
-
+<!DOCTYPE html>
 <html>
 <head>
       <meta charset="UTF8">
        <title> RR PROPERTIES </title>
-      <link rel="sytlesheet" href="style.css>"
+
 </head>
 <body>
+      
+      <h1 style="color:gold;"> LUXURY PROPERTY DEALER</h1>
       
       <h1> LUXURY PROPERTY DEALER </h1>
       
