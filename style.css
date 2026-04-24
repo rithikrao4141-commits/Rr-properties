@@ -11,17 +11,17 @@ h2{ color: gold;
 }
 
 .glow-btn{
-          background: black
+          background: black;
 
-          color: gold
+          color: gold;
 
           padding: 12px 25px;
 
           border:3px solid gold;
 
-          font-size:17px
+          font-size:17px;
 
-          cursor:pointer
+          cursor:pointer;
 
           transition: 0.3s;
 }
