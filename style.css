@@ -3,5 +3,9 @@
 .title  { 
        
        color: red;
-       font-size: 20px;
+       font-size: 40px;
+}
+
+h2{ color: gold;
+    font-size: 30px;
 }
