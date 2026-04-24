@@ -5,10 +5,10 @@ body{
      font-family: Arial,sans-serif;
 }
  
-. container{ 
+.container{ 
             max-width: 450px;
             text-align: center;
-            margin: 75px;
+            margin: 75px auto;
           }
 
 
