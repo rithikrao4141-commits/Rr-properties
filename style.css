@@ -21,6 +21,13 @@ body{
        margin-top: 40px;
 }
 
+h1{
+   color:gold;
+   font-size: 40px
+   }
+
+
+ 
 h2{ color: gold;
     font-size: 34px;
     margin-bottom: 25px;
